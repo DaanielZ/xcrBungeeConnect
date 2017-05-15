@@ -1,0 +1,4 @@
+name: xcrBungeeConnect
+author: defabricated
+version: 1.0
+main: pl.xcrafters.xcrbungeeconnect.ConnectPlugin
